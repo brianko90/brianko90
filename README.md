@@ -9,11 +9,18 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/brian ko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian ko" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/brian-a-ko" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="brian ko" height="30" width="40" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://angel.co/u/brian-ko-5" target="blank">
+    <img align="center" src="" alt="brian ko" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
