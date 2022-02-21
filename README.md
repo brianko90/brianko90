@@ -17,11 +17,11 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="brian ko" height="30" width="40" />
   </a>
 </p>
-<p align="left">
+<!-- <p align="left">
   <a href="https://angel.co/u/brian-ko-5" target="blank">
     <img align="center" src="" alt="brian ko" height="30" width="40" />
   </a>
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
