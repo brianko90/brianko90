@@ -71,3 +71,8 @@
     <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> 
   </a> 
 </p>
+
+## Stats:
+[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianko90&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianko90&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
